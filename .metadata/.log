@@ -1,0 +1,18 @@
+!SESSION 2023-01-03 14:21:18.089 -----------------------------------------------
+eclipse.buildId=Version 1.7.0
+java.version=11.0.10
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data D:\Workspace_DEEP\Lampe
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-01-03 14:21:23.319
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-01-03 14:21:23.373
+!MESSAGE Log4j initialized with config file D:\Workspace_DEEP\Lampe\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-01-03 14:21:26.245
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-01-03 14:23:22.229
+!MESSAGE Indexed 'mission-gravity' (79 sources, 136 headers) in 5.21 sec: 13,210 declarations; 67,042 references; 14 unresolved inclusions; 1,262 syntax errors; 5,458 unresolved names (6.4%)
